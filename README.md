@@ -2,11 +2,9 @@
 
 Just a list of Awesome Alt Langs to check out:
 
-* [Beef](https://www.beeflang.org/) - an open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment.
 * [caramel](https://caramel.run) - a functional language for building type-safe, scalable, and maintainable applications
-* [carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 * [Clean](https://clean.cs.ru.nl/Clean) - a general purpose, state-of-the-art, pure and lazy functional programming language designed for making real-world applications
-* [Felix](http://felix-lang.github.io/felix/) -  an advanced, statically typed, high performance scripting language with native C++ embedding
+* [F*](https://www.fstar-lang.org/) - a general-purpose functional programming language with dependent types, monadic effects, refinement types, and a weakest precondition calculus
 * [gleam](https://gleam.run/) - a fast, friendly, and functional language for building type-safe, scalable systems!
 * [GOO](https://googoogaga.github.io/) - type-based prefix syntaxed language that is simple, powerful and extensible
 * [Janet](https://janet-lang.org) - a functional and imperative programming language 
@@ -18,9 +16,7 @@ Just a list of Awesome Alt Langs to check out:
 * [idris](https://www.idris-lang.org/) - A Language for Type-Driven Development.
 * [inko](https://inko-lang.org) - Safe and concurrent object-oriented programming, without the headaches.
 * [io](https://iolanguage.org) - a programming language focused on expressiveness through simplicity.
-* [Lumen](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
 * [nim](https://nim-lang.org/) - a statically typed compiled systems programming language
-* [Odin](https://odin-lang.org/) - The Odin programming language is designed with the intent of creating an alternative to C with the following goals: simplicity, high performance, built for modern systems and joy of programming.
 * [picolisp](https://picolisp.com) - a programming language, or really a programming system, including a built-in database engine and a GUI system! It's simple and lightweight and encourages clean, concise code.
 * [pony](https://www.ponylang.io/) - an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 * [pyret](https://pyret.org) - a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming
